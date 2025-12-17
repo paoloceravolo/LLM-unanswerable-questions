@@ -4,14 +4,14 @@ theme:
   language: it
   palette:
     - scheme: default # Tema chiaro
-      primary: indigo
-      accent: indigo
+      primary: deep-orange
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Modalità notte
     - scheme: slate # Tema scuro
-      primary: indigo
-      accent: indigo
+      primary: deep-orange
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Modalità giorno
