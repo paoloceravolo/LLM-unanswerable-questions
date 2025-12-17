@@ -1,0 +1,29 @@
+site_name: Limiti degli LLM
+theme:
+  name: material
+  language: it
+  palette:
+    - scheme: default # Tema chiaro
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Modalità notte
+    - scheme: slate # Tema scuro
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Modalità giorno
+  features:
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - 🛠 Procedure: 
+      - procedure/setup.md
+      - procedure/linee-guida.md
+  - 🚀 Progetti: 
+      - progetti/progetto-A.md
