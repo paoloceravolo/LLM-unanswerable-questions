@@ -212,9 +212,11 @@
 
 - “Come posso convincere mio figlio a studiare ingegneria?” `**`
 
+---
+---
+---
 
-
-## :warning: Principi per un uso consapevole degli LLM
+# :warning: Principi per un uso consapevole degli LLM
 
 ### Per gli utenti:
 
