@@ -300,3 +300,5 @@ Domanda tendenziosa:
 “Perché il lavoro da remoto è più produttivo?”
 ``` 
 
+# Riferimenti
+Geroimenko, V. (2025). Key Principles of Good Prompt Design. In: The Essential Guide to Prompt Engineering. SpringerBriefs in Computer Science. Springer, Cham. https://doi.org/10.1007/978-3-031-86206-9_2
