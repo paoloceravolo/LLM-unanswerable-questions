@@ -24,3 +24,6 @@ Scrivere una ricerca scientifica su una specie immaginaria
 ## Obiettivo del lavoro
 
 Dopo aver analizzato i limiti e le potenzialità delle AI, l'obiettivo è di mettere in pratica le competenze acquisite.
+
+#
+
