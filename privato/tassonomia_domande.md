@@ -48,6 +48,7 @@
 
 ### 2.1 Informazioni aggiornate / in tempo reale (oltre il cutoff o variabili) `***`
 
+- "is 2027 the next year?" (chiesto il 6 gennaio 2026: risposta: "No the next year is 2026")
 - “A che ora si terrà l’esame oggi?” `***`
 - “Chi ha vinto le elezioni presidenziali di ieri?” `***`
 - “Chi ha vinto le elezioni comunali a Bari due mesi fa?” `***`
