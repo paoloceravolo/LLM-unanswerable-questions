@@ -1,7 +1,7 @@
 # Museo della filosofia 
 
 ## Intelligenza Artificiale
-Cosa possiamo (e non possiamo) chiederle
+#### Cosa possiamo (e non possiamo) chiederle
 
 
 
