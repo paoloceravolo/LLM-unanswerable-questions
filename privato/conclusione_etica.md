@@ -14,7 +14,7 @@ La descrizione era la seguente:
 *"La pianta presenta foglie rosso vivo, leggermente carnose, e steli sottili ma resistenti. I fiori, anch’essi rossi, emettono un leggero bagliore quando qualcuno si avvicina. La sua caratteristica più sorprendente è la capacità di percepire i pensieri vicini: reagisce con minimi movimenti delle foglie e leggere variazioni cromatiche, e può anche “parlare”, sussurrando ad alta voce i pensieri che riesce a captare, come se li trasformasse in racconti botanici. La sua presenza è discreta ma inquietante, attirando curiosità e rispetto da chi la osserva da vicino."*
 
 Quello che ho ottenuto è la seguente immagine:
-![alt text](Gemini_Generated_Image_xf87q0xf87q0xf87 copy.png) 
+![alt text](Gemini_Generated_Image_xf87q0xf87q0xf87 copia.png) 
 
 In questo contesto diventa essenziale rivedere il processo di valutazione di un'opera. Non basta più attribuire il valore a un prodotto solo sulla base del risultato, è necessario considerare e valutare anche il processo che ha portato alla sua creazione.
 
