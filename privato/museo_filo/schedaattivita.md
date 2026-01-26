@@ -55,3 +55,10 @@ Cosa è un prompt? È semplicemente l'istruzione che diamo a un'IA generativa pe
 
 Il "prompt engineering" è diventato una vera e propria competenza: l'arte di formulare richieste efficaci per ottenere i migliori risultati dall'IA.
 
+### 4\. Spingere i modelli a generare percorsi di ragionamento
+
+Negli ultimi anni sono state sviluppate diverse strategie per impiegare i Large Language Models (LLM) in compiti che richiedono capacità di ragionamento, come la risoluzione di problemi matematici, scientifici o logici. Quando a un modello viene richiesta esclusivamente la risposta finale, senza esplicitare il processo che conduce alla soluzione, la probabilità di errore risulta spesso elevata. Numerosi studi hanno infatti mostrato che, se il modello viene guidato a produrre un ragionamento passo per passo, le risposte tendono a essere più accurate.
+
+Questa capacità può essere potenziata dagli utenti principalmente in due modi: fornendo esempi di ragionamento oppure impartendo istruzioni esplicite su come ragionare.
+
+L’attività di oggi si concentra su quest’ultimo aspetto. Esamineremo alcune proposte per formulare istruzioni in grado di guidare i modelli nella generazione di risposte motivate da un percorso di ragionamento e metteremo alla prova queste strategie confrontandole con prompt standard. Il confronto verrà svolto su tre domini differenti: una domanda in ambito medico, un compito di ragionamento probabilistico e un problema di fisica elementare. Analizzeremo quindi le differenze tra i risultati ottenuti e rifletteremo sulle loro implicazioni.
