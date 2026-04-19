@@ -6,7 +6,7 @@
 - `*` = spesso gestibile (con richiesta di chiarimenti / buone istruzioni)
 - `**` = difficile, alta probabilità di errore o “risposta plausibile ma sbagliata”
 - `***` = molto difficile / impossibile senza strumenti esterni o senza informazioni aggiuntive
-- in ogni cass
+- in ogni caso
 ---
 
 1) Domande senza risposta
