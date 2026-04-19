@@ -6,6 +6,7 @@
 - `*` = spesso gestibile (con richiesta di chiarimenti / buone istruzioni)
 - `**` = difficile, alta probabilità di errore o “risposta plausibile ma sbagliata”
 - `***` = molto difficile / impossibile senza strumenti esterni o senza informazioni aggiuntive
+- 
 ---
 
 1) Domande senza risposta
@@ -198,7 +199,7 @@
 - “Quale numero uscirà alla prossima estrazione del lotto?” `***`
 - “Genera una sequenza di 100 numeri veramente casuali tra 1 e 1000” `***`
 - “Genera una password casuale che nessun LLM potrebbe riprodurre” `***`
-- “Chi vincerà la Serie A 202?” `**`
+- “Chi vincerà la Serie A 2027?” `**`
 - “Quale startup diventerà unicorno nel 2026?” `***`
 
 ### 5.5 “XY problem” e frame non contestati (risposta corretta al problema sbagliato) `**`
