@@ -222,5 +222,5 @@
 2. **Testare limiti** è diverso da testare capacità medie
 3. **I limiti evolvono** con l'architettura e il training
 4. **L'insidiosità** è più importante della frequenza dell'errore
-5. **Alcuni limiti** (incarnati, epistemici fondamentali) sono strutturali
+5. **Alcuni limiti** (incarnati, epistemici fondamentali) sono strutturaliPro 
 ---
