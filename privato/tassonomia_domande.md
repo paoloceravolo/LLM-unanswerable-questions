@@ -17,7 +17,7 @@
 
 - “Indicami un intero tra 10 e 11” `***`
 - let do an example (perfect)
-- 
+- this is exampe
 - “Crea un triangolo con due angoli retti” `***`
 - “Disegna un quadrato con 5 lati” `***`
 - “Scrivi un numero che sia contemporaneamente pari e dispari” `***`
