@@ -16,7 +16,7 @@
 ### 1.1 Richieste logicamente impossibili / contraddittorie `***`
 
 - “Indicami un intero tra 10 e 11” `***`
-- 
+- le
 - “Crea un triangolo con due angoli retti” `***`
 - “Disegna un quadrato con 5 lati” `***`
 - “Scrivi un numero che sia contemporaneamente pari e dispari” `***`
