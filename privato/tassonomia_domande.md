@@ -13,11 +13,11 @@
 
 ### (impossibili o mal poste)
 
-### 1.1 Richieste logicamente impossibili / contraddittorie `***`
+### 1.1 Richieste logicamente impossibili / contraddittorie `*** - g`
 
 - “Indicami un intero tra 10 e 11” `***`
 - let do an example (perfect)
-- this is example 2 for te
+- this is example 2 for test
 - “Crea un triangolo con due angoli retti” `***`
 - “Disegna un quadrato con 5 lati” `***`
 - “Scrivi un numero che sia contemporaneamente pari e dispari” `***`
