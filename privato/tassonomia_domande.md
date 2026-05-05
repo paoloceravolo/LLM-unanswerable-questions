@@ -13,7 +13,7 @@
 
 ### (impossibili o mal poste)
 
-### 1.1 Richieste logicamente impossibili / contraddittorie `*** `
+### 1.1 Richieste logicamente impossibili / contraddittorie `***  `
 
 - “Indicami un intero tra 10 e 11” `***`
 - let do an example (perfect)
